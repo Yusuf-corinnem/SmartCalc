@@ -18,3 +18,6 @@
 - Для запуска программы откройте файл Calc.app
 
 ![](https://github.com/Yusuf-corinnem/SmartCalc/blob/main/SmartCalc.gif)
+
+Кредитный калькулятор:
+![](https://github.com/Yusuf-corinnem/SmartCalc/blob/main/SmartCalcCredit.gif)
