@@ -17,3 +17,4 @@
 ## Run
 - Для запуска программы откройте файл Calc.app
 
+![](https://github.com/Yusuf-corinnem/SmartCalc/blob/main/SmartCalc.gif)
